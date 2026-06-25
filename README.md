@@ -1,15 +1,9 @@
-# Data Portfolio
+# Dashboard showcase project
 
-Welcome to my personal analytics portfolio!  
-This repository contains my project using Power BI in 2 different ways: Operations Report & Analytics Report
+Welcome to my personal project!  
+This repository contains my project using Power BI for Operations Report.
 
-## 📁 About the projects
-
-### 📉 E-commerce Profitability & Customer Behavior Analytics
-A deep-dive commercial analysis investigating the invisible trade-offs between aggressive revenue generation and severe profit erosion.
-* **Dashboard Anomaly Identification:** Spotted a critical profit erosion trend via high-level monitoring where record-breaking sales periods inversely correlated with a 4-year-low profit margin (compressing to 16.35%) due to mass discounting.
-* **Profitability Threshold Evaluation:** Analyzed the financial impact of promotional tiers using data binning techniques, successfully identifying a strict **20% discount breakeven threshold** and proving that promotions exceeding 21% directly caused net losses without driving substantial incremental revenue.
-* **Micro-Behavioral Analysis:** Spearheaded cohort tracking on 8,900+ buyers to separate customer loyalty from opportunism, uncovering that discount-acquired "deal hunters" exhibited acute price sensitivity and demanded **3x higher discounts (20% vs. 7%)** to trigger repeat purchases compared to organic buyers.
+## 📁 About the project
 
 ### 📦 Olist E-commerce Business Performance Report
 A comprehensive, end-to-end operational report and dashboard focusing on market-driven KPIs, logistics health, and merchant performance across Brazil.
@@ -22,6 +16,7 @@ A comprehensive, end-to-end operational report and dashboard focusing on market-
 
 * **Power BI** – Data modeling, DAX calculations, and interactive dashboard development.
 * **Power Query** - Data inspection & transformation.
+* **Power BI Services** - Publish.
 
 ## 🌐 About Me
 
